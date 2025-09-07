@@ -1,3 +1,3 @@
-FarmEye --> Without Expo CLI /n
+FarmEye --> Without Expo CLI 
 
 Potato-Leaf-Detection --> With Expo CLI
